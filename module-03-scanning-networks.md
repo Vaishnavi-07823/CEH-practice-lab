@@ -1,10 +1,5 @@
 # 🔍 CEH v13 — Module 03: Scanning Networks
 
-![CEH](https://img.shields.io/badge/CEH-v13-red?style=flat-square)
-![Module](https://img.shields.io/badge/Module-03-blue?style=flat-square)
-![Topic](https://img.shields.io/badge/Topic-Scanning%20Networks-orange?style=flat-square)
-![Format](https://img.shields.io/badge/Format-Theory%20%2B%20Commands-green?style=flat-square)
-
 > 📌 Personal study notes for CEH v13 exam preparation. Covers key concepts, tools, and practical commands used in network scanning during ethical hacking engagements.
 ---
 
