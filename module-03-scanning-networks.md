@@ -6,7 +6,6 @@
 ![Format](https://img.shields.io/badge/Format-Theory%20%2B%20Commands-green?style=flat-square)
 
 > 📌 Personal study notes for CEH v13 exam preparation. Covers key concepts, tools, and practical commands used in network scanning during ethical hacking engagements.
-
 ---
 
 ## 📚 Table of Contents
