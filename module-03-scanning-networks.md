@@ -293,7 +293,7 @@ p0f -i eth0                       # Passive fingerprinting on interface
 
 ---
 
-## 🏷️ Banner Grabbing
+## Banner Grabbing
 
 Grabbing service banners reveals software name, version, and OS — useful for finding known CVEs.
 
@@ -325,7 +325,7 @@ curl -I http://192.168.1.1        # HTTP headers (reveals server info)
 
 ---
 
-## 🔓 Vulnerability Scanning
+##  Vulnerability Scanning
 
 ### Nmap Scripting Engine (NSE)
 ```bash
@@ -349,7 +349,7 @@ openvas-start                     # Start OpenVAS service
 
 ---
 
-## 🛡️ IDS/Firewall Evasion Techniques
+##  IDS/Firewall Evasion Techniques
 
 ### 1. Fragmentation
 Split packets into tiny fragments to confuse IDS reassembly:
