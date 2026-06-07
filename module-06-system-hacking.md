@@ -1,5 +1,5 @@
 # 💻 CEH v13 — Module 06: System Hacking
-
+ 
 > 📌 Personal study notes for CEH v13 exam preparation. Covers password cracking, privilege escalation, maintaining access, and covering tracks — the four goals of system hacking.
 
 ---
