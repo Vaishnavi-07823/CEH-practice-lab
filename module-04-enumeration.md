@@ -1,10 +1,5 @@
 # 📡 CEH v13 — Module 04: Enumeration
 
-![CEH](https://img.shields.io/badge/CEH-v13-red?style=flat-square)
-![Module](https://img.shields.io/badge/Module-04-blue?style=flat-square)
-![Topic](https://img.shields.io/badge/Topic-Enumeration-purple?style=flat-square)
-![Format](https://img.shields.io/badge/Format-Theory%20%2B%20Commands-green?style=flat-square)
-
 > 📌 Personal study notes for CEH v13 exam preparation. Covers enumeration techniques, protocols, tools, and practical commands used to extract detailed information from target systems.
 
 ---
