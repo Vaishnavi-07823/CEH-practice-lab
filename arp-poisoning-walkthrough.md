@@ -3,7 +3,6 @@
 > **Type:** Active Sniffing / Man-in-the-Middle (MITM)  
 > **Tools:** arpspoof, Ettercap, Wireshark  
 > ⚠️ For educational purposes only. Practice only on your own lab VMs.
-
 ---
 
 ## Background: How ARP Works
