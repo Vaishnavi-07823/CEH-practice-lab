@@ -2,7 +2,7 @@
  
 > 📌 Personal study notes for CEH v13 exam preparation. Covers password cracking, privilege escalation, maintaining access, and covering tracks — the four goals of system hacking.
 
----
+--- 
 
 ## 📚 Table of Contents
 
