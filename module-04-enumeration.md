@@ -1,7 +1,7 @@
 # 📡 CEH v13 — Module 04: Enumeration
 
 > 📌 Personal study notes for CEH v13 exam preparation. Covers enumeration techniques, protocols, tools, and practical commands used to extract detailed information from target systems.
-
+ 
 ---
 
 ## 📚 Table of Contents
