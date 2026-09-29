@@ -4,7 +4,6 @@
 > **Tools:** arpspoof, Ettercap, Wireshark  
 > ⚠️ For educational purposes only. Practice only on your own lab VMs.
 ---
-
 ## Background: How ARP Works
 
 ARP (Address Resolution Protocol) maps **IP addresses to MAC addresses** on a LAN.
