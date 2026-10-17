@@ -4,7 +4,7 @@
 > A structured collection of notes, concepts, and hands-on lab exercises covering all 20 CEH domains.
 
 --- 
-
+ 
 ## 👩‍💻 About This Repository
 
 This repository documents my journey preparing for the **EC-Council CEH (Certified Ethical Hacker)** certification. It includes domain-wise notes, attack methodology breakdowns, and practical lab observations using industry-standard tools.
