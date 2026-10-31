@@ -1,7 +1,7 @@
 # 🛡️ CEH Practice Lab — Vaishnavi Trivedi
 
 > **Certified Ethical Hacker (CEH v13) — Active Preparation Repository**  
-> A structured collection of notes, concepts, and hands-on lab exercises covering all 20 CEH domains.
+> A structured collection of notes, concepts, and hands-on lab exercises  covering all 20 CEH domains.
       
 ---       
   
